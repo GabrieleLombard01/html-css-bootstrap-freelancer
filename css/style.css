@@ -33,6 +33,7 @@ ul{
 }
 .col{
     background-color: rgb(236, 249, 163);
+    border: solid rgb(255, 115, 0) 1px;
 }
 .line_star{
     height: 4px;
