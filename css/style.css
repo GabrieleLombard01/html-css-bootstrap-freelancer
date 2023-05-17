@@ -14,8 +14,29 @@ header{
     color: white;
     height: 80px;
 }
+ul{
+    width: 100%;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 /*Utilties*/
-.conteiner{
+.container{
     border: dashed red 1px;
     background-color: aliceblue;
+}
+.row{
+    border: dashed blue 1px;
+}
+.col{
+    background-color: rgb(236, 249, 163);
+}
+.line_star{
+    height: 4px;
+    width: 65px;
+    background-color: black;
+    margin-bottom: 5px;
 }
