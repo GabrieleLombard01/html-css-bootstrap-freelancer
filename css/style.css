@@ -34,7 +34,6 @@ a{
     border: dashed blue 1px;
 }
 .col{
-    background-color: rgb(236, 249, 163);
     border: solid rgb(255, 115, 0) 1px;
 }
 .line_star{
@@ -45,4 +44,7 @@ a{
 }
 .btn{
     border: solid black 1px;
+}
+.background_green{
+    background-color: #1abc9c;
 }
